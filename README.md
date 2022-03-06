@@ -1,1 +1,2 @@
 # Dilation-Dataset-iCAMTD100
+This dataset corresponds to the Research Work:  "Iris Recognition using low-level CNN layers without Training and Single Matching". The iris images were obtained with the approval of the Bioethics Committee, Facultad de Ciencias Fisicas y Matematicas, Universidad de Chile (resolution No.011, May 19, 2019), and the signed informed consent was obtained from all subjects.
