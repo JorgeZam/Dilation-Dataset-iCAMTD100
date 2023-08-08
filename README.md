@@ -8,19 +8,14 @@ The iris images were obtained with the approval of the Bioethics Committee, Facu
 Please, if you use this dataset cite our paper by means of the following reference:
 
 
----
-title: "Iris Recognition Using Low-Level CNN Layers Without Training and Single Matching"
-description: |
-  Recognition of iris patterns using CNN layers without training
-date: 2022
-author:
-  - name: Jorge E. Zambrano
-  - name: Daniel P. Benalcazar
-  - name: Claudio A. Perez
-  - name: Kevin W. Bowyer
-journal: "IEEE Access"
-volume: 10
-pages: "41276-41286"
-doi: "10.1109/ACCESS.2022.3166910"
----
+
+@ARTICLE{9755923,
+  author={Zambrano, Jorge E. and Benalcazar, Daniel P. and Perez, Claudio A. and Bowyer, Kevin W.},
+  journal={IEEE Access}, 
+  title={Iris Recognition Using Low-Level CNN Layers Without Training and Single Matching}, 
+  year={2022},
+  volume={10},
+  number={},
+  pages={41276-41286},
+  doi={10.1109/ACCESS.2022.3166910}}
 
