@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: If you use this work, please cite it using the following reference.
+authors:
+  - family-names: Zambrano
+    given-names: Jorge E.
+  - family-names: Benalcazar
+    given-names: Daniel P.
+  - family-names: Perez
+    given-names: Claudio A.
+  - family-names: Bowyer
+    given-names: Kevin W.
+title: Iris Recognition Using Low-Level CNN Layers Without Training and Single Matching
+version: '2022'
+type: article-journal
+doi: 10.1109/ACCESS.2022.3166910
