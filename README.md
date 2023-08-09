@@ -11,3 +11,10 @@ Please, if you use this dataset cite our paper by means of the following referen
 ___
 J. E. Zambrano, D. P. Benalcazar, C. A. Perez and K. W. Bowyer, "Iris Recognition Using Low-Level CNN Layers Without Training and Single Matching," in IEEE Access, vol. 10, pp. 41276-41286, 2022, doi: 10.1109/ACCESS.2022.3166910.
 ___
+
+
+
+---
+bibliography:
+- 'IEEE Xplore Citation BibTeX.bib'
+---
