@@ -13,5 +13,5 @@ J. E. Zambrano, D. P. Benalcazar, C. A. Perez and K. W. Bowyer, "Iris Recognitio
 ___
 
 
-## Reference
+## Reference:
 - [Zambrano et al. - Iris Recognition Using Low-Level CNN Layers Without Training and Single Matching](https://doi.org/10.1109/ACCESS.2022.3166910)
